@@ -1,0 +1,1 @@
+-- zatím prázdné pro pozdější logiku
